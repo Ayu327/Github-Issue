@@ -1,0 +1,12 @@
+#issueList{
+    margin: 20px;
+
+}
+
+#issueList ol{
+    padding-left: 20px;
+}
+
+#issueList button{
+    margin: 5px;
+}
